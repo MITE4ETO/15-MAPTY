@@ -328,3 +328,5 @@ class App {
 const app = new App();
 
 // Analyzing the code
+
+// observing this part before going to understand the asynchronous
